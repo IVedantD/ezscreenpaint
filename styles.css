@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Inclusive+Sans&family=Luxurious+Roman&family=Poppins:wght@400;500;600;700&family=Roboto:wght@300&display=swap');
+
+*{
+    margin: 0px;
+    padding:0px;
+    box-sizing: border-box;
+    font-family:"poppins", sans-serif;
+}
+
+.contact{
+    color: aliceblue;
+    text-align: center;
+    font-size: 35px;
+    text-transform: uppercase;
+    margin-bottom: 30px;
+  
+}
+
+.contact-form{
+    color:rgb(5, 5, 95);
+    text-align: center;
+    font-size:30px;
+}
+
+.text-box{
+    background-color:rgb(245, 241, 241);
+    height: 40px;
+    width: 130px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.contact-me{
+    height: 40px;
+    width: 130px;
+    background-color: rgb(245, 198, 10);
+    border-radius: 20px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.message-sec{
+    background-image: url("image/Blue\ BG.png");
+    height: 350px;
+    text-align: center;
+   
+}
+
+
+.text-box2{
+     text-align: center;
+    margin-top: 45PX;
+    background-color:rgb(245, 241, 241);
+    height: 40px;
+    width: 180px;
+    border-radius: 10px;
+    margin-left: 70px;
+}
+
+.social-media{
+    background-repeat: no-repeat;
+    display: inline-block;
+    margin-left: -446PX;
+}
+
+.logo{
+    width: 179px;
+    height: 45px;
+    margin-top: 39px;
+}
+
+.logo2{
+    width: 179px;
+    height: 45px;
+    margin-top: 39px;
+    margin-left: -440px;
+} 
+
+.text{
+    font-size: 13px;
+    color: #ffffff;
+    margin-top: -148px;
+    margin-left: 720px;
+    text-align: left;
+}
+
+.letters{
+    font-size: 19px;
+   color: #ffffff;
+   margin-top: -148px;
+    margin-left: 1020px;
+    text-align: left;
+}
+
+
